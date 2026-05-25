@@ -1,3 +1,5 @@
+![Project Demo](demo.gif)
+
 # Secure Desktop Voting & Live Analytics System
 
 A professional, multi-window electronic voting and data ledger application built using Python, Tkinter, and an integrated SQLite3 relational database. Engineered with robust front-end validation layers, defensive database logic, and a dynamic mathematical analytics engine.
